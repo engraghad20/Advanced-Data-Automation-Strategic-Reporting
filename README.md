@@ -8,4 +8,4 @@ Skills & Technologies:
 Advanced Excel • Data Modeling • KPI Reporting • Data Automation • Data Visualization • Slicers
 
 Google Drive:
-[Open the model folder on Google Drive]([https://drive.google.com/drive/folders/1hUMSzbfa6n3GOqH5InlzSrfHANa6pxDI?usp=sharing](https://drive.google.com/drive/folders/1RxjQXlXCLpJWfwYw4QhDVmL-h_NQEfxs?usp=sharing))
+[Open the model folder on Google Drive]([https://drive.google.com/drive/folders/1RxjQXlXCLpJWfwYw4QhDVmL-h_NQEfxs?usp=drive_link]))
