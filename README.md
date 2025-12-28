@@ -1,4 +1,7 @@
-# Advanced-Data-Automation-Strategic-Reporting - Excel Performance Dashboard
+# Advanced-Data-Automation-Strategi
+![ade2e55e-474c-4e9f-9e2d-e4962cb98108](https://github.com/user-attachments/assets/4497ba02-4c99-4241-b050-987deab1d2ae)
+c-Reporting - Excel Performance Dashboard
+
 I developed a dynamic, fully automated performance dashboard leveraging advanced Excel capabilities to streamline the analysis of complex retail sales data. The solution delivers real-time insights into key performance indicators (KPIs)—including sales, costs, and profit—supported by highly interactive Slicers that enable seamless multi-dimensional filtering across the business.
 
 Added Value:
